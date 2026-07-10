@@ -1,7 +1,11 @@
-"forwardPorts": [7676],
-"portsAttributes": {
-  "7676": {
-    "label": "Nginx Web Server",
-    "visibility": "public"
+{
+  "name": "Nginx Environment",
+  "forwardPorts":,
+  "portsAttributes": {
+    "7676": {
+      "label": "Nginx Web Server",
+      "visibility": "public"
+    }
   }
 }
+
