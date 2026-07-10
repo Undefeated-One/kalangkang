@@ -1,0 +1,7 @@
+"forwardPorts": [7676],
+"portsAttributes": {
+  "7676": {
+    "label": "Nginx Web Server",
+    "visibility": "public"
+  }
+}
